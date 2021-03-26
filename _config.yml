@@ -1,2 +1,4 @@
 name: Home | guitarband.github.io
 markdown: kramdown
+
+theme: jekyll-theme-cayman
