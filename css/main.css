@@ -57,3 +57,7 @@ a:link {
 a:visited {
     color: purple;
 }
+
+#head:hover {
+    color: mediumpurple;
+}
