@@ -50,6 +50,6 @@ a:visited {
     color: purple;
 }
 
-.heading:hover {
+#heading:hover {
     color: mediumpurple;
 }
