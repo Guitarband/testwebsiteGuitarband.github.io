@@ -49,3 +49,11 @@ ul.posts li {
 *:hover {
     color: mediumpurple;
 }
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: pink;
+}
