@@ -42,6 +42,14 @@ ul.posts li {
     list-style: none;
 }
 
+* {
+    color: black;
+}
+
+*:hover {
+    color: mediumpurple;
+}
+
 a:link {
     color: blue;
 }
@@ -50,10 +58,3 @@ a:visited {
     color: purple;
 }
 
-* {
-    color: black;
-}
-
-*:hover {
-    color: mediumpurple;
-}
