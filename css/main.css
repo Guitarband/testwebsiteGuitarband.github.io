@@ -50,10 +50,10 @@ a:visited {
     color: purple;
 }
 
-*:hover {
-    color: mediumpurple;
+* {
+    color: black;
 }
 
-* {
+*:hover {
     color: mediumpurple;
 }
