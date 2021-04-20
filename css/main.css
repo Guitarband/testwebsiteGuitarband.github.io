@@ -40,11 +40,12 @@ ul.posts li {
     list-style: none;
 }
 
-* {
+.heading {
     color: black;
+    font-size: 200%;
 }
 
-*:hover {
+.heading:hover {
     color: mediumpurple;
 }
 
