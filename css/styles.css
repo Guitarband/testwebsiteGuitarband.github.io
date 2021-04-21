@@ -46,9 +46,6 @@ ul.posts li {
     font-size: 90%;
 }
 
-.heading:hover {
-    color: mediumpurple;
-}
 
 a:link {
     color: blue;
@@ -58,6 +55,6 @@ a:visited {
     color: purple;
 }
 
-#g {
+#headering:hover {
     color: blue;
 }
