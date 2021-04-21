@@ -43,7 +43,7 @@ ul.posts li {
 
 .heading {
     color: black;
-    font-size: 90%;
+    font-size: 120%;
 }
 
 
@@ -55,13 +55,9 @@ a:visited {
     color: purple;
 }
 
-#u_title:hover {
-    color: mediumpurple;
-}
 
-
-#g_title {
-    background-image: linear-gradient(0deg, blue, purple);
+#g_title:hover , #u_title:hover , #i_title:hover , #t_title:hover , #a_title:hover , #r_title:hover , #b_title:hover , #a_title:hover , #n_title:hover , #d_title:hover , {
+    background-image: linear-gradient(90deg, blue, purple);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
     -moz-background-clip: text;
