@@ -55,6 +55,11 @@ a:visited {
     color: purple;
 }
 
-#g_title:hover , #u_title:hover {
+#u_title:hover {
     color: mediumpurple;
+}
+
+
+#g_title {
+    background-image: linear-gradient(45deg, purple, blue);
 }
