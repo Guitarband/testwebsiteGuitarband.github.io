@@ -56,7 +56,7 @@ a:visited {
 }
 
 
-#g_title:hover , #u_title:hover , #i_title:hover , #t_title:hover , #a_title:hover , #r_title:hover , #b_title:hover , #a_title:hover , #n_title:hover , #d_title:hover , {
+#g_title , #u_title , #i_title , #t_title , #a_title , #r_title , #b_title , #a_title , #n_title , #d_title , {
     background-image: linear-gradient(90deg, blue, purple);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
