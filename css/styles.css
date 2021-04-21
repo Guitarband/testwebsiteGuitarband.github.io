@@ -55,6 +55,6 @@ a:visited {
     color: purple;
 }
 
-#headering:hover {
-    color: blue;
+#g_title:hover , #u_title:hover {
+    color: mediumpurple;
 }
