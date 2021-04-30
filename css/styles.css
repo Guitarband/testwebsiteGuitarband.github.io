@@ -42,13 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-.heading {
-    color: black;
-    font-size: 150%;
-    
-}
-
-
 a:link {
     color: blue;
 }
@@ -58,7 +51,15 @@ a:visited {
 }
 
 
+.heading {
+    background: lightBlue;
+    width: 500px;
+    height: 100px;
+}
+
 h1 {
+    color: black;
+    font-size: 150%;
     background-image: linear-gradient(90deg, crimson, orange, yellow, green, blue, violet, lavender, plum);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
