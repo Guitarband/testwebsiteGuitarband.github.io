@@ -58,13 +58,13 @@ a:visited {
 }
 
 h1 {
-    color: white;
-}
-
-#g_title:hover , #u_title:hover , #i_title:hover , #t_title:hover , #a_title:hover , #r_title:hover , #b_title:hover , #a_title:hover , #n_title:hover , #d_title:hover {
     background-image: linear-gradient(90deg, crimson, orange, yellow, green, blue, violet, lavender, plum);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
+}
+
+#g_title:not(:hover) , #u_title:not(:hover) , #i_title:not(:hover) , #t_title:not(:hover) , #a_title:not(:hover) , #r_title:not(:hover) , #b_title:not(:hover) , #a_title:not(:hover) , #n_title:not(:hover) , #d_title:not(:hover) {
+    color: white;
 }
