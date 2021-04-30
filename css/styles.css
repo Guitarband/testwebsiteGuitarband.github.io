@@ -52,6 +52,8 @@ a:visited {
 
 
 .heading {
+    left: 50px;
+    top: 200px;
     font-size: 150%;
 }
 
