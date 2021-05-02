@@ -49,6 +49,12 @@ a:visited {
 }
 
 
+
+.titleBar{
+    color: white;
+}
+
+
 .heading {
     left: 50px;
     top: 200px;
