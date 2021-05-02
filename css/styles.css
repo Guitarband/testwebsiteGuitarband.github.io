@@ -54,6 +54,10 @@ a:visited {
     color: white;
 }
 
+#titleBarName{
+    left: 100px;
+    top: 50px;
+}
 
 .heading {
     left: 50px;
