@@ -57,7 +57,7 @@ a:visited {
 	right: 0;
 	top: 25px;
 	height: 40px;
-    color: white;
+    	color: white;
 	font-size: 90%;
 }
 
@@ -81,7 +81,7 @@ a:visited {
 .heading {
 	position: relative;
     left: 100px;
-    top: 125px;
+    top: 150px;
     font-size: 200%;
 }
 
@@ -105,6 +105,6 @@ h1 {
 .AboutMe{
 	position: relative;
     left: 150px;
-    top: 75px;
+    top: 100px;
     font-size: 100%;
 }
