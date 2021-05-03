@@ -70,18 +70,19 @@ body {
 #titleBarImage{
 	position: absolute;
 	padding-left: 50px;
+	top: 5px;
 }
 
 #titleBarName{
 	position: absolute;
 	padding-left: 140px;
-    top: 18px;
+    top: 15px;
 }
 
 #titleBarAbout{
 	position: absolute;
     padding-left: 265px;
-    top: 18px;
+    top: 15px;
 }
 
 .heading {
