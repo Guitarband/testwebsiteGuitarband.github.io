@@ -110,14 +110,14 @@ h1 {
 
 .AboutMe{
 position: relative;
-    left: 150px;
-    top: 400px;
+    left: 100px;
+    top: 600px;
     font-size: 100%;
 }
 
 .footerBar{
 	position: relative;
 	width: 100%;
-	height: 600px;
+	height: 1000px;
 	bottom: 0px;
 }
