@@ -92,7 +92,7 @@ body {
     font-size: 200%;
 }
 
-h1 {
+h1:hover {
     background-image: linear-gradient(90deg, crimson, orange, yellow, green, blue, violet, lavender);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
@@ -105,11 +105,13 @@ h1 {
 }
 
 #g_title:hover , #u_title:hover , #i_title:hover , #t_title:hover , #a_title:hover , #r_title:hover , #b_title:hover , #a_title:hover , #n_title:hover , #d_title:hover {
-
+	left: 150px;
+    top: 250px;
 }
 
 #neon{
 	color: white;
+	
 }
 
 
