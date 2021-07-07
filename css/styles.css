@@ -100,18 +100,15 @@ h1:hover {
     -moz-text-fill-color: transparent;;
 }
 
-#g_title:not(:hover) , #u_title:not(:hover) , #i_title:not(:hover) , #t_title:not(:hover) , #a_title:not(:hover) , #r_title:not(:hover) , #b_title:not(:hover) , #a_title:not(:hover) , #n_title:not(:hover) , #d_title:not(:hover) {
-    color: purple;
+#g_title:not(:hover) , #u_title:not(:hover) , #i_title:not(:hover) , #t_title:not(:hover) , #a_title:not(:hover) , #r_title:not(:hover) , #b_title:not(:hover) , #n_title:not(:hover) , #d_title:not(:hover) {
+    color: orchid;
 }
 
-#g_title:hover , #u_title:hover , #i_title:hover , #t_title:hover , #a_title:hover , #r_title:hover , #b_title:hover , #a_title:hover , #n_title:hover , #d_title:hover {
-	left: 150px;
-    top: 250px;
-}
 
 #neon{
 	color: white;
-	
+	left: 150px;
+    	top: 250px;	
 }
 
 
