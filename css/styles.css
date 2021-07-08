@@ -100,7 +100,7 @@ h1:hover {
     -moz-text-fill-color: transparent;;
 }
 
-#g_title:not(:hover) , #u_title:not(:hover) , #i_title:not(:hover) , #t_title:not(:hover) , #a_title:not(:hover) , #r_title:not(:hover) , #b_title:not(:hover) , #n_title:not(:hover) , #d_title:not(:hover) {
+#g_title:not(:hover) , #u_title:not(:hover) , #i_title:not(:hover) , #t_title:not(:hover) , #a1_title:not(:hover) , #r_title:not(:hover) , #b_title:not(:hover), #a2_title:not(:hover) , #n_title:not(:hover) , #d_title:not(:hover) {
     color: orchid;
 }
 
